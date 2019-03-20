@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicholas Duran"
-  avatar           : "/files/2019_Duran_ALIGN.pdf"
+  avatar           : 
   bio              : "I'm an assistant professor in the School of Social and Behavioral Sciences at ASU."
   location         : "ASU"
   employer         :
