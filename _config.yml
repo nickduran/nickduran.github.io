@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexandra Paxton"
-  avatar           : "https://s.gravatar.com/avatar/5e2457040de7f89e82f9f862bb681e64?s=300"
-  bio              : "I'm an assistant professor in the Psychological Sciences Department at UConn, and I take a data-rich approach to understanding human social dynamics."
-  location         : "UConn"
+  name             : "Nicholas Duran"
+  avatar           : "/files/2019_Duran_ALIGN.pdf"
+  bio              : "I'm an assistant professor in the School of Social and Behavioral Sciences at ASU."
+  location         : "ASU"
   employer         :
-  googlescholar   : "https://scholar.google.com/citations?user=YRWfuEIAAAAJ&hl=en"
-  email            : "alexandra.paxton@uconn.edu"
+  googlescholar   : "https://scholar.google.com/citations?user=5n5wn-kAAAAJ&hl=en"
+  email            : "nicholas.duran@asu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "a-paxton"
+  github           : "nickduran"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "0000-0002-8603-015X"
+  orcid            : "0000-0002-8872-5617"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  osf              : "e27dn"
+  osf              : "u7gfb"
 
 
 # Reading Files
